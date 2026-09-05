@@ -1,2 +1,2 @@
 # Second_repo
-creating 2nd repository
+Creating 2nd repository for practise.
